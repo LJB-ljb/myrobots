@@ -2,7 +2,7 @@
 environment  python 3.7
 needed packages
   name            version
-  -----------------------
+  =======================
   numpy           1.21.6
   opencv-python   4.6.0.66
   
